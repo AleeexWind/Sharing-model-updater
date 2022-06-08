@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net46</TargetFramework>
+    <UseWindowsForms>true</UseWindowsForms>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System.Windows.Forms"/>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="TeklaOpenAPI" Version="2019.0.45003"/>
+  </ItemGroup>
+</Project>

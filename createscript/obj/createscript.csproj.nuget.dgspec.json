@@ -1,0 +1,62 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\Sharing model downloading(main)\\createscript\\createscript.csproj": {}
+  },
+  "projects": {
+    "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\Sharing model downloading(main)\\createscript\\createscript.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\Sharing model downloading(main)\\createscript\\createscript.csproj",
+        "projectName": "createscript",
+        "projectPath": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\Sharing model downloading(main)\\createscript\\createscript.csproj",
+        "packagesPath": "C:\\Users\\aluzanov\\.nuget\\packages\\",
+        "outputPath": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\Sharing model downloading(main)\\createscript\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\aluzanov\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net46"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net46": {
+            "targetAlias": "net46",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net46": {
+          "targetAlias": "net46",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )",
+              "autoReferenced": true
+            },
+            "TeklaOpenAPI": {
+              "target": "Package",
+              "version": "[2020.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

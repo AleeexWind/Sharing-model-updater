@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Mg4/CKA1c4Ngdb0Y1/WF95k+H450tmICNePLYIbcC/ucqSZ1xUCV2HD9+pfCE1+vrNQtpDmnQlMz8nUMQzGAlg==",
+  "success": true,
+  "projectFilePath": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\Sharing model downloading(main)\\Tekla2019modelHandler\\createscript\\createscript.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\aluzanov\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\aluzanov\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512",
+    "C:\\Users\\aluzanov\\.nuget\\packages\\teklaopenapi\\2019.0.45003\\teklaopenapi.2019.0.45003.nupkg.sha512"
+  ],
+  "logs": []
+}

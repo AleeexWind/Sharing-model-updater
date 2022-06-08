@@ -1,0 +1,9 @@
+C:\Users\sglazkov\Documents\VScodeNet46\createscript\createscript\bin\Debug\net46\createscript.exe.config
+C:\Users\sglazkov\Documents\VScodeNet46\createscript\createscript\bin\Debug\net46\createscript.exe
+C:\Users\sglazkov\Documents\VScodeNet46\createscript\createscript\bin\Debug\net46\createscript.pdb
+C:\Users\sglazkov\Documents\VScodeNet46\createscript\createscript\obj\Debug\net46\createscript.csprojAssemblyReference.cache
+C:\Users\sglazkov\Documents\VScodeNet46\createscript\createscript\obj\Debug\net46\createscript.AssemblyInfoInputs.cache
+C:\Users\sglazkov\Documents\VScodeNet46\createscript\createscript\obj\Debug\net46\createscript.AssemblyInfo.cs
+C:\Users\sglazkov\Documents\VScodeNet46\createscript\createscript\obj\Debug\net46\createscript.csproj.CoreCompileInputs.cache
+C:\Users\sglazkov\Documents\VScodeNet46\createscript\createscript\obj\Debug\net46\createscript.exe
+C:\Users\sglazkov\Documents\VScodeNet46\createscript\createscript\obj\Debug\net46\createscript.pdb
