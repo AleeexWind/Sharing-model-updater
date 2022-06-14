@@ -472,11 +472,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\Sharing model downloading(main)\\Tekla2019modelHandler\\createscript\\createscript.csproj",
+      "projectUniqueName": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\PUBLIC\\Sharing model updater\\TeklaModelHandler\\createscript\\createscript.csproj",
       "projectName": "createscript",
-      "projectPath": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\Sharing model downloading(main)\\Tekla2019modelHandler\\createscript\\createscript.csproj",
+      "projectPath": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\PUBLIC\\Sharing model updater\\TeklaModelHandler\\createscript\\createscript.csproj",
       "packagesPath": "C:\\Users\\aluzanov\\.nuget\\packages\\",
-      "outputPath": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\Sharing model downloading(main)\\Tekla2019modelHandler\\createscript\\obj\\",
+      "outputPath": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\PUBLIC\\Sharing model updater\\TeklaModelHandler\\createscript\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluzanov\\AppData\\Roaming\\NuGet\\NuGet.Config"
