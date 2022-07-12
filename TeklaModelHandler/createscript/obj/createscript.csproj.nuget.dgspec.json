@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\PUBLIC\\Sharing model updater\\TeklaModelHandler\\createscript\\createscript.csproj": {}
+    "d:\\Applications\\MyApps\\Sharing-model-updater\\TeklaModelHandler\\createscript\\createscript.csproj": {}
   },
   "projects": {
-    "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\PUBLIC\\Sharing model updater\\TeklaModelHandler\\createscript\\createscript.csproj": {
+    "d:\\Applications\\MyApps\\Sharing-model-updater\\TeklaModelHandler\\createscript\\createscript.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\PUBLIC\\Sharing model updater\\TeklaModelHandler\\createscript\\createscript.csproj",
+        "projectUniqueName": "d:\\Applications\\MyApps\\Sharing-model-updater\\TeklaModelHandler\\createscript\\createscript.csproj",
         "projectName": "createscript",
-        "projectPath": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\PUBLIC\\Sharing model updater\\TeklaModelHandler\\createscript\\createscript.csproj",
-        "packagesPath": "C:\\Users\\aluzanov\\.nuget\\packages\\",
-        "outputPath": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\PUBLIC\\Sharing model updater\\TeklaModelHandler\\createscript\\obj\\",
+        "projectPath": "d:\\Applications\\MyApps\\Sharing-model-updater\\TeklaModelHandler\\createscript\\createscript.csproj",
+        "packagesPath": "C:\\Users\\Laptop\\.nuget\\packages\\",
+        "outputPath": "d:\\Applications\\MyApps\\Sharing-model-updater\\TeklaModelHandler\\createscript\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\aluzanov\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Laptop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net46"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -38,18 +44,12 @@
         "net46": {
           "targetAlias": "net46",
           "dependencies": {
-            "Microsoft.NETFramework.ReferenceAssemblies": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[1.0.0, )",
-              "autoReferenced": true
-            },
             "TeklaOpenAPI": {
               "target": "Package",
-              "version": "[2019.0.45003, )"
+              "version": "[2017.0.6809, )"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
         }
       },
       "runtimes": {

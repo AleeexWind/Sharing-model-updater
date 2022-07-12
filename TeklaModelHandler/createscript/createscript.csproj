@@ -8,6 +8,6 @@
     <Reference Include="System.Windows.Forms"/>
   </ItemGroup>
   <ItemGroup>
-    <PackageReference Include="TeklaOpenAPI" Version="2019.0.45003"/>
+    <PackageReference Include="TeklaOpenAPI" Version="2017.0.6809"/>
   </ItemGroup>
 </Project>

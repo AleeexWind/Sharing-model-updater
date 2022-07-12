@@ -5,12 +5,13 @@
     <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
     <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
     <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">$(UserProfile)\.nuget\packages\</NuGetPackageRoot>
-    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\aluzanov\.nuget\packages\</NuGetPackageFolders>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">C:\Users\Laptop\.nuget\packages\;C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages</NuGetPackageFolders>
     <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
-    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.9.0</NuGetToolVersion>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.11.1</NuGetToolVersion>
   </PropertyGroup>
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <SourceRoot Include="C:\Users\aluzanov\.nuget\packages\" />
+    <SourceRoot Include="C:\Users\Laptop\.nuget\packages\" />
+    <SourceRoot Include="C:\Program Files (x86)\Microsoft Visual Studio\Shared\NuGetPackages\" />
   </ItemGroup>
   <PropertyGroup>
     <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
@@ -19,6 +20,6 @@
     <Import Project="$(NuGetPackageRoot)teklaopenapi\2020.0.3\build\TeklaOpenAPI.props" Condition="Exists('$(NuGetPackageRoot)teklaopenapi\2020.0.3\build\TeklaOpenAPI.props')" />
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
-    <PkgTeklaOpenAPI Condition=" '$(PkgTeklaOpenAPI)' == '' ">C:\Users\aluzanov\.nuget\packages\teklaopenapi\2020.0.3</PkgTeklaOpenAPI>
+    <PkgTeklaOpenAPI Condition=" '$(PkgTeklaOpenAPI)' == '' ">C:\Users\Laptop\.nuget\packages\teklaopenapi\2020.0.3</PkgTeklaOpenAPI>
   </PropertyGroup>
 </Project>

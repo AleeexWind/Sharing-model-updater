@@ -20,7 +20,7 @@ namespace createscript
             {
                 if(!File.Exists(logFilePath))
                 {
-                    File.Create(logFilePath);
+                    File.Create(logFilePath).Close();
                 }
             }
             catch

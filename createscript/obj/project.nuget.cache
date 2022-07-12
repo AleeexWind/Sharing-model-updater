@@ -1,12 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "MDqXCMh+gTXHqPcTjMM3K7qkLhm46E0w/95QoJi0lsN80WQcbVDXNPUFELMjzUo3cokbPNGOI4bWZF25g7Nnqg==",
+  "dgSpecHash": "L/7JdqkGXyMDgfSlgFmD6ThnL4uwi7U+EfzacvZOMW3ww+av2u2QFdPkjRxvS34+zoVLrDGrQNhPBJoMSG0C7w==",
   "success": true,
-  "projectFilePath": "c:\\Alex\\NOVARCTIC\\9 - Applications\\UNDER DEVELOPING\\MyApplications\\Sharing model downloading(main)\\createscript\\createscript.csproj",
+  "projectFilePath": "d:\\Applications\\MyApps\\Sharing-model-updater\\createscript\\createscript.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\aluzanov\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
-    "C:\\Users\\aluzanov\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512",
-    "C:\\Users\\aluzanov\\.nuget\\packages\\teklaopenapi\\2020.0.3\\teklaopenapi.2020.0.3.nupkg.sha512"
+    "C:\\Users\\Laptop\\.nuget\\packages\\teklaopenapi\\2020.0.3\\teklaopenapi.2020.0.3.nupkg.sha512"
   ],
   "logs": []
 }

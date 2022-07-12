@@ -1,0 +1,18 @@
+12.07.2022 22:34:02     Opening 2017,C:\Users\Laptop\Desktop\Новая папка\78\П-С31А-2999-20-КМ-КМД;
+12.07.2022 22:34:02     Waiting for 2017,C:\Users\Laptop\Desktop\Новая папка\78\П-С31А-2999-20-КМ-КМД is open;
+12.07.2022 22:35:02     Read in for 2017,C:\Users\Laptop\Desktop\Новая папка\78\П-С31А-2999-20-КМ-КМД is started
+12.07.2022 22:35:33     Waiting for Read In of 2017,C:\Users\Laptop\Desktop\Новая папка\78\П-С31А-2999-20-КМ-КМД is finished;
+12.07.2022 22:37:33     Read In of 2017,C:\Users\Laptop\Desktop\Новая папка\78\П-С31А-2999-20-КМ-КМД is finished;
+12.07.2022 22:37:33     Saving 2017,C:\Users\Laptop\Desktop\Новая папка\78\П-С31А-2999-20-КМ-КМД;
+12.07.2022 22:38:05     Closing 2017,C:\Users\Laptop\Desktop\Новая папка\78\П-С31А-2999-20-КМ-КМД;
+12.07.2022 22:38:05     Closing 2017,C:\Users\Laptop\Desktop\Новая папка\78\П-С31А-2999-20-КМ-КМД;
+12.07.2022 22:38:16     Opening 2017,C:\Users\Laptop\Desktop\Новая папка\79;
+12.07.2022 22:38:16     Waiting for 2017,C:\Users\Laptop\Desktop\Новая папка\79 is open;
+12.07.2022 22:39:16     Read in for 2017,C:\Users\Laptop\Desktop\Новая папка\79 is started
+12.07.2022 22:39:47     Waiting for Read In of 2017,C:\Users\Laptop\Desktop\Новая папка\79 is finished;
+12.07.2022 22:41:47     Read In of 2017,C:\Users\Laptop\Desktop\Новая папка\79 is finished;
+12.07.2022 22:41:47     Saving 2017,C:\Users\Laptop\Desktop\Новая папка\79;
+12.07.2022 22:42:18     Closing 2017,C:\Users\Laptop\Desktop\Новая папка\79;
+12.07.2022 22:42:18     Closing 2017,C:\Users\Laptop\Desktop\Новая папка\79;
+12.07.2022 22:42:29     All models are downloaded;
+

@@ -32,11 +32,11 @@ namespace myspace
             }
             
             List<string> modelList = listOfModels.GetListFromFile();
-
+            int modelfailureCount = 0;
             if(modelList.Count != 0)
             {
                 string timeToWaitForOpening = tb_time.Text;
-
+                
                 foreach(var model in modelList)
                 {
                     string[] teklaVersion = model.Split(',');
@@ -48,11 +48,24 @@ namespace myspace
                     catch(Exception ex)
                     {
                         myLogFile.WriteText($"ERROR: {ex.Message};\n");
+                        modelfailureCount++;
                     }      
                 }
-
-                myLogFile.WriteText($"All models are downloaded;\n");
-                MessageBox.Show("Finished"); 
+                if(modelfailureCount==0)
+                {
+                    myLogFile.WriteText($"Finished. All models have been downloaded;\n");
+                    MessageBox.Show("Finished. All models have been downloaded"); 
+                }
+                else if(modelfailureCount == modelList.Count)
+                {
+                    myLogFile.WriteText($"All downloads of models got failure;\n");
+                    MessageBox.Show("Finished. All downloads of models got failure. For more details see \"log.txt\""); 
+                }
+                else
+                {
+                    myLogFile.WriteText($"Finished. NOT all models have been downloaded;\n");
+                    MessageBox.Show("Finished. NOT all models have been downloaded. For more details see \"log.txt\""); 
+                }
             }
             else
             {
@@ -71,7 +84,7 @@ namespace myspace
             string teklaExePath = SettingsHandler.GetTeklaEXEPath(teklaVersion);
             string teklaBypassPath = SettingsHandler.GetBypassPath(teklaVersion);
 
-            if(teklaVersion == "2020"|| teklaVersion == "2019")
+            if(teklaVersion == "2020"|| teklaVersion == "2019"|| teklaVersion == "2017")
             {
                 proc.StartInfo.FileName = GetEXEpath() + $"Tekla{teklaVersion}modelHandler.exe";
                 proc.StartInfo.Arguments = $"\"{model}\" " + $"\"{timeToWaitForOpening}\" " + $"\"{teklaExePath}\" " + $"\"{teklaBypassPath}\" ";
